@@ -1,0 +1,268 @@
+
+/*team*/
+/*----------------------------------------------------*/
+.gt-team-8-area {
+    padding: 125px 0 114px 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .gt-team-8-area .container {
+    max-width: 1314px;
+  }
+  .gt-team-8-area .shape-1 {
+    position: absolute;
+    left: 0;
+    top: 123px;
+  }
+  @media only screen and (min-width: 1400px) and (max-width: 1599px) {
+    .gt-team-8-area .shape-1 {
+      max-width: 400px;
+    }
+  }
+  @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
+    .gt-team-8-area .shape-1 {
+      max-width: 300px;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
+    .gt-team-8-area .shape-1 {
+      display: none;
+    }
+  }
+  .gt-team-8-area .shape-2 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -2;
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
+    .gt-team-8-area .shape-2 {
+      display: none;
+    }
+  }
+  .gt-team-8-area .section-title-wrap {
+    max-width: 716px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .gt-team-8-area .gt-bottom-text {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .gt-team-8-area .gt-bottom-text .link {
+    color: var(--gt-base-or);
+    text-decoration: underline;
+    transition: all 0.3s ease;
+  }
+  .gt-team-8-area .gt-bottom-text .link:hover {
+    text-decoration: none;
+  }
+  .gt-team-8-wrap {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .gt-team-8-wrap {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 767px) {
+    .gt-team-8-wrap {
+      grid-template-columns: 1fr;
+      gap: 65px;
+    }
+  }
+  .gt-team-8-card {
+    position: relative;
+  }
+  @media (max-width: 767px) {
+    .gt-team-8-card {
+      max-width: 410px;
+      margin: 0 auto;
+    }
+  }
+  .gt-team-8-card .main-img {
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+  .gt-team-8-card .main-img::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 335px;
+    background: #F5F4F2;
+    border-radius: 300px 300px 0px 0px;
+    z-index: -1;
+    transition: all 800ms ease;
+  }
+  .gt-team-8-card .content {
+    background: #FCDCCD;
+    text-align: center;
+    padding: 15px 20px 10px 20px;
+    transition: all 800ms ease;
+  }
+  .gt-team-8-card .content .title {
+    font-family: var(--gt-heading-2);
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 34px;
+    color: #2B2A30;
+    margin-bottom: 0;
+    transition: all 800ms ease;
+  }
+  .gt-team-8-card .content .designation {
+    font-family: var(--gt-body-font-2);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 34px;
+    color: #4F4E54;
+    transition: all 800ms ease;
+  }
+  .gt-team-8-card:hover .social-media::after {
+    transform: translate(0px, 0px);
+    opacity: 1;
+  }
+  .gt-team-8-card:hover .social-media .link-icon {
+    opacity: 1;
+  }
+  .gt-team-8-card:hover .content {
+    background-color: var(--gt-base-or);
+  }
+  .gt-team-8-card:hover .content .title {
+    color: #fff;
+  }
+  .gt-team-8-card:hover .content .designation {
+    color: #fff;
+  }
+  .gt-team-8-card:hover .main-img::after {
+    background-color: #FEDECE;
+  }
+  .gt-team-8-card .social-media {
+    position: absolute;
+    top: 74px;
+    right: -27px;
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  @media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .gt-team-8-card .social-media {
+      top: 62px;
+    }
+  }
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .gt-team-8-card .social-media {
+      top: -48px;
+      right: -13px;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .gt-team-8-card .social-media {
+      top: 30px;
+      right: -22px;
+    }
+  }
+  @media only screen and (min-width: 576px) and (max-width: 767px) {
+    .gt-team-8-card .social-media {
+      top: -25px !important;
+    }
+  }
+  @media (max-width: 767px) {
+    .gt-team-8-card .social-media {
+      top: -45px;
+      right: -8px;
+    }
+  }
+  .gt-team-8-card .social-media::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #FF7E3D;
+    position: absolute;
+    z-index: -2;
+    transform: translate(-80px, 75px);
+    transition: all 0.5s ease;
+    opacity: 0;
+  }
+  .gt-team-8-card .social-media .link-icon {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #fff;
+    color: #FF7E3D;
+    font-size: 18px;
+    position: absolute;
+    transition: 0.4s ease;
+    opacity: 0;
+  }
+  .gt-team-8-card .social-media .link-icon::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: #000;
+    position: absolute;
+    transform: scale(0);
+    transition: all 0.3s ease;
+  }
+  .gt-team-8-card .social-media .link-icon:hover::after {
+    transform: scale(1);
+  }
+  .gt-team-8-card .social-media .link-icon:nth-child(1) {
+    top: 12px;
+    left: 89px;
+  }
+  @media (max-width: 767px) {
+    .gt-team-8-card .social-media .link-icon:nth-child(1) {
+      top: 10px;
+      left: 75px;
+    }
+  }
+  .gt-team-8-card .social-media .link-icon:nth-child(2) {
+    top: 30px;
+    right: 71px;
+  }
+  @media (max-width: 767px) {
+    .gt-team-8-card .social-media .link-icon:nth-child(2) {
+      top: 18px;
+      right: 80px;
+    }
+  }
+  .gt-team-8-card .social-media .link-icon:nth-child(3) {
+    top: 58px;
+    right: 35px;
+  }
+  @media (max-width: 767px) {
+    .gt-team-8-card .social-media .link-icon:nth-child(3) {
+      top: 42px;
+      right: 38px;
+    }
+  }
+  .gt-team-8-card .social-media .link-icon:nth-child(4) {
+    top: 98px;
+    right: 16px;
+  }
+  @media (max-width: 767px) {
+    .gt-team-8-card .social-media .link-icon:nth-child(4) {
+      top: 80px;
+      right: 10px;
+    }
+  }
+  .gt-team-8-card .social-media .link-icon:nth-child(5) {
+    top: 142px;
+    right: 20px;
+  }
+  .gt-team-8-card .social-media .link-icon i {
+    position: relative;
+    z-index: 2;
+  }

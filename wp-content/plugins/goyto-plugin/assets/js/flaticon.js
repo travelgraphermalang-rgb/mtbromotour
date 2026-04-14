@@ -1,0 +1,5 @@
+{
+    "icons":[
+        "search","take-off","location","location-1","diagonal-arrow","video-camera-with-play-button","send","maps-and-flags","travel-agency","map-and-location","arrived-destination","payment","left-quote","star","plane","down-arrow","calendar","users","heart","location-2","protective-clothing","money","tour-guide","facebook","linkedin","instagram","twitter","right-arrow","facebook-1","twitter-1","linkedin-1","instagram-1","mail-inbox-app","arrows","menu","right-arrow-1","right-arrow-2","building","sports-car","checked","account","calendar-1","up-right-arrow","play-button-arrowhead","arrow-right","map","star-of-life","viber","internet","group","double-bed","bathroom","love","left-and-right-arrows","square","car","villa","calendar-2","user","play-button","eye","menu-1","interface","categories","hotel","hotel-1","fees","hand","central-park","tires","family","investment","insurance","man","house","language","check-mark","incorrect","accept","comment","arrow-left","left-arrow-angle-big-gross-symbol","add","facebook-2","linkedin-2"
+    ]
+}

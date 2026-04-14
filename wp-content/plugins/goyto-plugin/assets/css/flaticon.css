@@ -1,0 +1,276 @@
+@font-face {
+    font-family: "flaticon_travel_agency";
+    src: url("/wp-content/plugins/goyto-plugin/assets/fonts/flaticon_travel_agency.woff2?d56a87b9e2b7e30cb7a2634c0a51fe22") format("woff2"),
+url("/wp-content/plugins/goyto-plugin/assets/fonts/flaticon_travel_agency.woff?d56a87b9e2b7e30cb7a2634c0a51fe22") format("woff"),
+url("/wp-content/plugins/goyto-plugin/assets/fonts/flaticon_travel_agency.eot?d56a87b9e2b7e30cb7a2634c0a51fe22#iefix") format("embedded-opentype"),
+url("/wp-content/plugins/goyto-plugin/assets/fonts/flaticon_travel_agency.ttf?d56a87b9e2b7e30cb7a2634c0a51fe22") format("truetype"),
+url("/wp-content/plugins/goyto-plugin/assets/fonts/flaticon_travel_agency.svg?d56a87b9e2b7e30cb7a2634c0a51fe22#flaticon_travel_agency") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before, .flaticon-plug:before {
+    font-family: flaticon_travel_agency !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-search:before {
+    content: "\f101";
+}
+.flaticon-take-off:before {
+    content: "\f102";
+}
+.flaticon-location:before {
+    content: "\f103";
+}
+.flaticon-location-1:before {
+    content: "\f104";
+}
+.flaticon-diagonal-arrow:before {
+    content: "\f105";
+}
+.flaticon-video-camera-with-play-button:before {
+    content: "\f106";
+}
+.flaticon-send:before {
+    content: "\f107";
+}
+.flaticon-maps-and-flags:before {
+    content: "\f108";
+}
+.flaticon-travel-agency:before {
+    content: "\f109";
+}
+.flaticon-map-and-location:before {
+    content: "\f10a";
+}
+.flaticon-arrived-destination:before {
+    content: "\f10b";
+}
+.flaticon-payment:before {
+    content: "\f10c";
+}
+.flaticon-left-quote:before {
+    content: "\f10d";
+}
+.flaticon-star:before {
+    content: "\f10e";
+}
+.flaticon-plane:before {
+    content: "\f10f";
+}
+.flaticon-down-arrow:before {
+    content: "\f110";
+}
+.flaticon-calendar:before {
+    content: "\f111";
+}
+.flaticon-users:before {
+    content: "\f112";
+}
+.flaticon-heart:before {
+    content: "\f113";
+}
+.flaticon-location-2:before {
+    content: "\f114";
+}
+.flaticon-protective-clothing:before {
+    content: "\f115";
+}
+.flaticon-money:before {
+    content: "\f116";
+}
+.flaticon-tour-guide:before {
+    content: "\f117";
+}
+.flaticon-facebook:before {
+    content: "\f118";
+}
+.flaticon-linkedin:before {
+    content: "\f119";
+}
+.flaticon-instagram:before {
+    content: "\f11a";
+}
+.flaticon-twitter:before {
+    content: "\f11b";
+}
+.flaticon-right-arrow:before {
+    content: "\f11c";
+}
+.flaticon-facebook-1:before {
+    content: "\f11d";
+}
+.flaticon-twitter-1:before {
+    content: "\f11e";
+}
+.flaticon-linkedin-1:before {
+    content: "\f11f";
+}
+.flaticon-instagram-1:before {
+    content: "\f120";
+}
+.flaticon-mail-inbox-app:before {
+    content: "\f121";
+}
+.flaticon-arrows:before {
+    content: "\f122";
+}
+.flaticon-menu:before {
+    content: "\f123";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f124";
+}
+.flaticon-right-arrow-2:before {
+    content: "\f125";
+}
+.flaticon-building:before {
+    content: "\f126";
+}
+.flaticon-sports-car:before {
+    content: "\f127";
+}
+.flaticon-checked:before {
+    content: "\f128";
+}
+.flaticon-account:before {
+    content: "\f129";
+}
+.flaticon-calendar-1:before {
+    content: "\f12a";
+}
+.flaticon-up-right-arrow:before {
+    content: "\f12b";
+}
+.flaticon-play-button-arrowhead:before {
+    content: "\f12c";
+}
+.flaticon-arrow-right:before {
+    content: "\f12d";
+}
+.flaticon-map:before {
+    content: "\f12e";
+}
+.flaticon-star-of-life:before {
+    content: "\f12f";
+}
+.flaticon-viber:before {
+    content: "\f130";
+}
+.flaticon-internet:before {
+    content: "\f131";
+}
+.flaticon-group:before {
+    content: "\f132";
+}
+.flaticon-double-bed:before {
+    content: "\f133";
+}
+.flaticon-bathroom:before {
+    content: "\f134";
+}
+.flaticon-love:before {
+    content: "\f135";
+}
+.flaticon-left-and-right-arrows:before {
+    content: "\f136";
+}
+.flaticon-square:before {
+    content: "\f137";
+}
+.flaticon-car:before {
+    content: "\f138";
+}
+.flaticon-villa:before {
+    content: "\f139";
+}
+.flaticon-calendar-2:before {
+    content: "\f13a";
+}
+.flaticon-user:before {
+    content: "\f13b";
+}
+.flaticon-play-button:before {
+    content: "\f13c";
+}
+.flaticon-eye:before {
+    content: "\f13d";
+}
+.flaticon-menu-1:before {
+    content: "\f13e";
+}
+.flaticon-interface:before {
+    content: "\f13f";
+}
+.flaticon-categories:before {
+    content: "\f140";
+}
+.flaticon-hotel:before {
+    content: "\f141";
+}
+.flaticon-hotel-1:before {
+    content: "\f142";
+}
+.flaticon-fees:before {
+    content: "\f143";
+}
+.flaticon-hand:before {
+    content: "\f144";
+}
+.flaticon-central-park:before {
+    content: "\f145";
+}
+.flaticon-tires:before {
+    content: "\f146";
+}
+.flaticon-family:before {
+    content: "\f147";
+}
+.flaticon-investment:before {
+    content: "\f148";
+}
+.flaticon-insurance:before {
+    content: "\f149";
+}
+.flaticon-man:before {
+    content: "\f14a";
+}
+.flaticon-house:before {
+    content: "\f14b";
+}
+.flaticon-language:before {
+    content: "\f14c";
+}
+.flaticon-check-mark:before {
+    content: "\f14d";
+}
+.flaticon-incorrect:before {
+    content: "\f14e";
+}
+.flaticon-accept:before {
+    content: "\f14f";
+}
+.flaticon-comment:before {
+    content: "\f150";
+}
+.flaticon-arrow-left:before {
+    content: "\f151";
+}
+.flaticon-left-arrow-angle-big-gross-symbol:before {
+    content: "\f152";
+}
+.flaticon-add:before {
+    content: "\f153";
+}
+.flaticon-facebook-2:before {
+    content: "\f154";
+}
+.flaticon-linkedin-2:before {
+    content: "\f155";
+}
+

@@ -1,0 +1,23 @@
+
+/*client*/
+/*----------------------------------------------------*/
+.gt-client-8-area {
+    padding: 120px 0;
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 992px) and (max-width: 1199px) {
+    .gt-client-8-area {
+      padding: 100px 0;
+    }
+  }
+  @media (max-width: 767px) {
+    .gt-client-8-area {
+      padding: 80px 0;
+    }
+  }
+  .gt-client-8-area .container {
+    max-width: 1784px;
+  }
+  .gt-client-8-slider {
+    overflow: hidden;
+  }

@@ -1,0 +1,273 @@
+html {
+    direction: rtl;
+}
+body{
+    direction: rtl;
+}
+.gt-header-section.header_style_one .header-cta-btn {
+    padding-right: 0;
+    padding-left: 45px;
+}
+
+.gt-header-section.header_style_one .header-cta-btn a span {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.gt-header-section.header_style_one .main-navigation li:after {
+    right: auto;
+    left: -35px;
+}
+
+.gt-banner-section .gt-banenr-shape1 {
+    right: auto;
+    left: -200px;
+}
+
+.gt-banner-section.active .gt-banenr-shape1 {
+    right: auto;
+    left: -300px;
+}
+
+.gt-banner-section .gt-banenr-shape2 {
+    left: auto;
+    right: -20px;
+}
+
+.gt-banner-section .gt-banenr-shape3 {
+    display: none;
+}
+
+.gt-banner-content .gt-banner-img {
+    right: auto;
+    left: -150px;
+}
+
+.gt-banner-content.active .gt-banner-img {
+    right: auto;
+    left: 0;
+}
+.split-line div {
+    direction: ltr;
+}
+.gt-booking-option .option_action:nth-child(1) {
+    padding-left: 0;
+    padding-right: 55px;
+}
+
+.gt-booking-option .option_action .action-icon {
+    right: auto;
+    left: 20px;
+}
+
+.gt-booking-option .option_action .nice-select {
+    text-align: right !important;
+}
+
+.gt-booking-option .option_action:before {
+    right: auto;
+    left: 0;
+}
+.gt-booking-option .submit-btn button {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+
+.gt-item-list li i {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.gt-destination-sroller {
+    direction: ltr;
+}
+.gt-banner-content-3 .gt-banner-men {
+    right: auto;
+    left: 130px;
+}
+.gt-banner-content-3 .gt-banner-men {
+    right: auto;
+    left: 130px;
+}
+
+.gt-explore-filter-btn button {
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+.gt-explore-filter-btn button i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.gt-why-choose-section-3 .gt-wc-inner-img {
+    right: auto;
+    left: 23%;
+}
+.gt-testimonial-item-3 {
+    flex-direction: row-reverse;
+}
+.gt-testimonial-slider-3 .carousel-indicators {
+    left: auto;
+}
+.gt-footer-newslatter:after {
+    left: auto;
+    right: 42%;
+}
+
+.gt-footer-newslatter .newslatter-forms button {
+    right: auto;
+    left: 0;
+}
+
+.gt-footer-newslatter .newslatter-forms-cta .footer-cta-area a i {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.gt-banner-search-bar button {
+    right: auto;
+    left: 28px;
+}
+.gt-favorite-place-item-area {
+    margin-right: 0;
+    margin-left: -600px;
+}
+
+.gt-favorite-place-section .gt-favorite-place-img {
+    right: auto;
+    left: 0;
+}
+.gt-header-section.header_style_three .main-navigation li:after {
+    right: auto;
+    left: -48px;
+}
+.gt-top-destination-content-4{
+    direction: ltr;
+}
+.gt-about-content-4 .gt-about-img-4 {
+    right: auto;
+    left: 0;
+}
+
+.gt-about-content-4 .gt-about-support {
+    left: auto;
+    right: 43%;
+}
+
+.gt-about-content-4 .gt-about-plane {
+    right: auto;
+    left: 25%;
+}
+.gt-working-stop-section .gt-section-bg {
+    left: auto;
+    right: 0;
+}
+
+.gt-working-stop-section .gt-working-stop-img1 {
+    right: auto;
+    left: 0;
+}
+
+.gt-working-stop-section .gt-working-stop-img2 {
+    left: auto;
+    right: 0;
+}
+.gt-offer-amount {
+    left: 30%;
+    right: auto;
+}
+
+.gt-offer-text-area {
+    margin-left: 0;
+    margin-right: 100px;
+}
+
+.gt-offer-section .gt-offer-img2 {
+    right: auto;
+    left: 0;
+}
+
+.gt-offer-section .gt-offer-img1 {
+    left: auto;
+    right: -120px;
+}
+.gt-header-section.header_style_four .gt-header-action {
+    padding-left: 60px;
+    padding-right: 15px;
+}
+
+.gt-header-section.header_style_four .gt-header-action:after {
+    right: auto;
+    left: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-left: none;
+    border-right: 2px solid rgb(255, 255, 255);
+}
+.gt-header-section.header_style_four .main-navigation li:before {
+    right: auto;
+    left: -40px;
+}
+.gt-header-section.header_style_four .gt-header-content .brand-logo {
+    padding-left: 60px;
+    padding-right: 130px;
+}
+
+.gt-header-section.header_style_four .gt-header-content .brand-logo:before {
+    border-right: none;
+    border-left: 2px solid rgb(255, 255, 255);
+    left: auto;
+    right: 0;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.gt-explore-world-content .gt-explor-world-img {
+    left: auto;
+    right: -100px;
+}
+.gt-offer-bg-wrapper-2 {
+    right: auto;
+    left: 220px;
+}
+
+.gt-offer-text-area-2 {
+    margin-left: 0;
+    margin-right: 250px;
+}
+.gt-offer-bg-wrapper {
+    left: auto;
+    right: -100px;
+}
+.gt-newslatter-form-6 button {
+    right: auto;
+    left: 10px;
+}
+.gt-banner-search-box-4 {
+    margin-left: 0;
+    margin-right: 155px;
+}
+
+.gt-banner-content-4 .gt-banner-img-4 {
+    right: auto;
+    left: 57px;
+}
+.gt-banner-sponsor-4 {
+    right: auto;
+    left: 0;
+}
+.cd-words-wrapper {
+    text-align: right;
+}
+.gt-booking-option .option_action.ver_2 h3 i {
+    margin-right: 0;
+    margin-left: 8px;
+}
+.cd-words-wrapper b {
+    left: auto;
+    right: 0;
+}

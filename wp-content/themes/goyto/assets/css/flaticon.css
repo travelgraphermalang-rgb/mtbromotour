@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("/wp-content/themes/goyto/assets/fonts/flaticon_mycollection.ttf?63d8c50bb295e9745474d60cc3e9ec71") format("truetype"),
+url("/wp-content/themes/goyto/assets/fonts/flaticon_mycollection.woff?63d8c50bb295e9745474d60cc3e9ec71") format("woff"),
+url("/wp-content/themes/goyto/assets/fonts/flaticon_mycollection.woff2?63d8c50bb295e9745474d60cc3e9ec71") format("woff2"),
+url("/wp-content/themes/goyto/assets/fonts/flaticon_mycollection.eot?63d8c50bb295e9745474d60cc3e9ec71#iefix") format("embedded-opentype"),
+url("/wp-content/themes/goyto/assets/fonts/flaticon_mycollection.svg?63d8c50bb295e9745474d60cc3e9ec71#flaticon_mycollection") format("svg");
+}
+
+[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-left-back-straight-arrow:before {
+    content: "\f101";
+}
+.flaticon-3d:before {
+    content: "\f102";
+}
+.flaticon-live-chat:before {
+    content: "\f103";
+}
+.flaticon-check-mark:before {
+    content: "\f104";
+}
+.flaticon-global-network:before {
+    content: "\f105";
+}
+.flaticon-straight-arrow:before {
+    content: "\f106";
+}
+.flaticon-approved:before {
+    content: "\f107";
+}
+.flaticon-check:before {
+    content: "\f108";
+}
